@@ -1,0 +1,42 @@
+LOG10 Market Value
+AT_TTM
+DEA
+BIAS
+BP
+AT_YTD
+RSI
+RTR3
+TR3
+Return_12 Month
+LOG10 Stock Price
+Beta
+ROE_TTM
+Return_3 Month
+RTR1
+RTR12
+Return_6 Month
+DIFF
+OCFP
+TR6
+Return_1 Month
+Alpha
+MACD
+TR12
+NCFP
+Target Price
+ROE_YTD
+RTR6
+TR1
+OCFN_TTM
+SPPPS
+ROA_TTM
+SP
+EP_EX
+PSY
+EP
+PM_EX_TTM
+G_NI_YTD
+G_NIPE
+PM_EX_YTD
+opinion
+stock_yield
